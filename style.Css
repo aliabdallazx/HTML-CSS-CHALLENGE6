@@ -169,21 +169,24 @@ h4{
 margin-left: 6%;
 margin-top: 20px;
 margin-top: 50px; 
+font-size: 20px;
 }
 .last-thing button{
 width: 10%;
-padding: 10px;
+color: white;
+padding: 16px 5px;
 margin-bottom: 15px;
-background-color: rgb(78, 74, 74);
-border-radius: 5px;
-border-color: white;
+background-color: rgb(92, 77, 77);
+border-radius: 10px;
+border-color: rgb(253, 252, 252);
 cursor: pointer;
+align-items: center;
 }
 .last-thing button:hover{
     background-color: black;
     color: white;
-    font-size: 20px;
-    transform: scale(1.3);
+    font-size: 17px;
+    transform: scale(1.2);
     transition: 0.3s;
 }
 
